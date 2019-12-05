@@ -1,1 +1,2 @@
 {"name":"prerelease_then_normal","vers":"0.0.1-alpha.0","deps":[],"cksum":"50c88f8239c0932ca7134cbefd8a2ec42061475b2ff47a361d16e53c810507da","features":{},"yanked":false,"links":null}
+{"name":"prerelease_then_normal","vers":"0.0.1","deps":[],"cksum":"8dd08cf0beea58e9634ea5bf180a2a8637078e0abf2cb2ff04936ffccab1f5b2","features":{},"yanked":false,"links":null}
