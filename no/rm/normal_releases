@@ -1,3 +1,4 @@
 {"name":"normal_releases","vers":"0.0.1","deps":[],"cksum":"ee0f862d7324bd1cca47f2d3b65d937ea3d6e8a60b1ae6ccf493c96c8de2b80f","features":{},"yanked":false,"links":null}
 {"name":"normal_releases","vers":"0.1.0","deps":[],"cksum":"71c502b52da2ba1efa5e39fcdd66034b9ba69e31904b1b927a19b893356c93f4","features":{},"yanked":false,"links":null}
 {"name":"normal_releases","vers":"0.1.1","deps":[],"cksum":"7511b150526487b4044cf5416efd7001ae0d86d7bb79aedf4922c3cbf801f789","features":{},"yanked":false,"links":null}
+{"name":"normal_releases","vers":"0.2.0","deps":[],"cksum":"c577b2a67a39d88930e3a1a826c095bb84f12cd3fde99cc18cc7030f80f355a2","features":{},"yanked":false,"links":null}
